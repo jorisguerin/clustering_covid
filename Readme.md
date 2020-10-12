@@ -3,8 +3,7 @@
 Code used for our paper "**Forecasting Covid-19 Dynamics in Brazil: A DataDriven Approach**":
 <https://www.mdpi.com/1660-4601/17/14/5115>
 
-<br>
-![alt text](https://github.com/jorisguerin/clustering_covid/blob/master/Figures/map_world.png)
+![world_map](Figures/map_world.png)
 
 ### Data sources
 ##### Covid data
